@@ -1,0 +1,35 @@
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\Simple User System.exe.config
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\Simple User System.exe
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\Simple User System.pdb
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.csproj.AssemblyReference.cache
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.csproj.SuggestedBindingRedirects.cache
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple_User_System.Properties.Resources.resources
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.csproj.GenerateResource.cache
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.csproj.CoreCompileInputs.cache
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.exe
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.pdb
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\Google.Protobuf.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\MySql.Data.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Buffers.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Memory.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\Google.Protobuf.pdb
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\Google.Protobuf.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\MySql.Data.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Buffers.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Memory.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.exe.config
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple User System.csproj.CopyComplete
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple_User_System.main.resources
+C:\Users\oyldr\source\repos\Simple User System\Simple User System\obj\Debug\Simple_User_System.create.resources
