@@ -22,3 +22,6 @@ The purpose of this project is to demonstrate understanding of visual programmin
     
 2. Open the project in Visual Studio.
 3. Build and run the project.
+
+
+![4fa8bad3-a39c-4c58-bf41-3e8bc83338ca](https://github.com/user-attachments/assets/1c0a3cd2-e54a-414c-ab52-d60507603806)
